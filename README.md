@@ -10,7 +10,7 @@ https://github.com/puneetbehl/corsexample/blob/1b2570cfa8b284ae0857445bbae23cc75
 
 ### Testing
 
-# Run the Grails application using command `./gradlew bootRun`.
-# The following `assertion` in Bootstrap.groovy is failing:
+* Run the Grails application using command `./gradlew bootRun`.
+* The following `assertion` in Bootstrap.groovy is failing:
 
 https://github.com/puneetbehl/corsexample/blob/1b2570cfa8b284ae0857445bbae23cc75e68e6dc/grails-app/init/corsmapping/BootStrap.groovy#L1-L10
